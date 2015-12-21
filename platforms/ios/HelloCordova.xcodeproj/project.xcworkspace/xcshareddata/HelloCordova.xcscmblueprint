@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "72A18E415A72352AE399C3EF67FF0D2C156DF41E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "88B6A8013223D600019120A1F3A856268A0C390E" : 0,
+    "72A18E415A72352AE399C3EF67FF0D2C156DF41E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2AA4DEA4-B94E-4150-81D4-CED15CB10DB2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "88B6A8013223D600019120A1F3A856268A0C390E" : "",
+    "72A18E415A72352AE399C3EF67FF0D2C156DF41E" : "conference\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HelloCordova",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "platforms\/ios\/HelloCordova.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/marvinick\/conference-ionic-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72A18E415A72352AE399C3EF67FF0D2C156DF41E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/marvinick\/conference-ionic-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "88B6A8013223D600019120A1F3A856268A0C390E"
+    }
+  ]
+}
